@@ -51,6 +51,6 @@ export class EquationComponent implements OnInit {
   }
 
   randomNumber() {
-    return Math.floor(Math.random() * 10);
+    return Math.floor(Math.random() * 100);
   }
 }

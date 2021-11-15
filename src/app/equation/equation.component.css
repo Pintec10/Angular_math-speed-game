@@ -25,3 +25,8 @@ input:focus {
     text-align: center;
     font-size: 24px;
 }
+
+.correct {
+    background-color: rgb(95, 197, 95);
+    color: ivory;
+}
